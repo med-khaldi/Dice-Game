@@ -13,11 +13,11 @@ The game has 2 players, playing in rounds
 
 ## Say thanks
 I should say thanks to Ansel Adams for the beautiful background you should check his profile in unsplach 
- [link] https://unsplash.com/@fotomaniacu?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
+"""https://unsplash.com/@fotomaniacu?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"""
 
 ## Contact me 
 you can contact me : 
 Email : med.khaldi1@gmail.com
 You can also check my LinkedIn profil in the link bellow 
- [link]https://www.linkedin.com/in/med-khaldi/
+"""https://www.linkedin.com/in/med-khaldi/"""
 
